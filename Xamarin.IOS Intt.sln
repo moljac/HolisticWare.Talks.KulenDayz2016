@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo1", "demo1\demo1.csproj", "{D7156A18-9ADA-4B5A-BBE0-934B97D68BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo2", "demo2\demo2.csproj", "{BFDEF034-4245-4E06-9743-FECD6211CB8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7156A18-9ADA-4B5A-BBE0-934B97D68BC8}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D7156A18-9ADA-4B5A-BBE0-934B97D68BC8}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D7156A18-9ADA-4B5A-BBE0-934B97D68BC8}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D7156A18-9ADA-4B5A-BBE0-934B97D68BC8}.Release|iPhone.Build.0 = Release|iPhone
+		{D7156A18-9ADA-4B5A-BBE0-934B97D68BC8}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D7156A18-9ADA-4B5A-BBE0-934B97D68BC8}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D7156A18-9ADA-4B5A-BBE0-934B97D68BC8}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D7156A18-9ADA-4B5A-BBE0-934B97D68BC8}.Debug|iPhone.Build.0 = Debug|iPhone
+		{BFDEF034-4245-4E06-9743-FECD6211CB8B}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BFDEF034-4245-4E06-9743-FECD6211CB8B}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BFDEF034-4245-4E06-9743-FECD6211CB8B}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BFDEF034-4245-4E06-9743-FECD6211CB8B}.Release|iPhone.Build.0 = Release|iPhone
+		{BFDEF034-4245-4E06-9743-FECD6211CB8B}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BFDEF034-4245-4E06-9743-FECD6211CB8B}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BFDEF034-4245-4E06-9743-FECD6211CB8B}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BFDEF034-4245-4E06-9743-FECD6211CB8B}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
